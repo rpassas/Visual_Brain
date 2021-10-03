@@ -1,0 +1,180 @@
+
+.heat-tip {
+        background: rgba(0, 0, 0, 0.8);
+        padding: 8px;
+        color: black;
+      }
+
+.grid {
+  margin-left: auto;
+  margin-right: auto;
+  width:660px;
+}
+
+.btn1 {
+position:relative;
+left:330px;
+top: 324px;
+color:#95DB24;
+z-index:1;
+width:330px;
+}
+
+.btn2 {
+position:relative;
+left: 330px;
+top:325px;
+color:#FFC800;
+z-index:1;
+width:330px;
+}
+
+.btn3 {
+position:relative;
+left:330px;
+top:326px;
+color:#FFC800;
+z-index:1;
+width:330px;
+}
+
+.btn4 {
+position:relative;
+left:330px;
+top:357px;
+color:red;
+z-index:1;
+width:330px;
+}
+
+.btn5 {
+position:relative;
+left:330px;
+top:298px;
+color:#FF612A;
+z-index:1;
+width:330px;
+}
+
+.btn6 {
+position:relative;
+left:330px;
+top:329px;
+color: white;
+z-index:1;
+width:330px;
+
+}
+
+.color1{
+  color:#95DB24;
+  font-size:11pt;
+}
+
+.color2{
+  color:#FFC800;
+  font-size:11pt;
+}
+
+.color3{
+  color:#FFC800;
+  font-size:11pt;
+}
+
+.color4{
+  color:red;
+  font-size:11pt;
+}
+
+.color5{
+  color:#FF612A;
+  font-size:11pt;
+}
+
+.color6{
+  color:white;
+  font-size:11pt;
+}
+
+.desc{
+  position:relative;
+   background-color:rgba(0,1,79,0.05);
+  left: 0px;
+  top: -120px;
+  width:660px;
+  height:180px;
+  overflow:scroll;
+  font-size:12pt;
+color: #0A014F;
+}
+
+.desc2{
+ position:relative;
+  background-color:rgba(255,154,222,0.1);
+  left: 0px;
+  top: 235px;
+  width:660px;
+  height:180px;
+  overflow:scroll;
+  font-size:12pt;
+  color: #0A014F;
+}
+
+
+
+input {
+  /*background: #2B061E;*/
+  background: linear-gradient(to right,#0A014F 23.5%, rgba(0,1,79,0.55) 23.5%);
+  border:0;
+  outline:0;
+  width:120px;
+  height:29px;
+  text-align: left;
+}
+
+
+input:active {
+  border: none;
+  outline:none;
+
+}
+
+input:hover{
+ border-left:#0A014F solid 2px;
+ background:#F3F1E5;
+ color:#0A014F;
+ cursor:cell;
+}
+
+.extra{
+   position:absolute;
+  text-align: left;
+  left: 0%;
+  top: 950px;
+}
+
+
+.sources{
+  top:1500px;
+  position:absolute;
+  font-size:10px;
+  text-align: justify;
+}
+
+.copy{
+  position:absolute;
+  top:1570px;
+  font-size:10px;
+}
+
+.bva-block{
+border: 1px solid LightCoral;
+width: 100px;
+height:100px;
+bottom: 10px;
+right:10px;
+position:fixed;
+z-index:0;
+}
+
+
